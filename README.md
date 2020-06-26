@@ -36,10 +36,6 @@
 	- check everything is ok or not by running django project
 	command -  python manage.py runserver
 
-	- export django setting module
-	command - export DJANGO_SETTINGS_MODULE=ftlproject.settings.local
-
-
 	- do the migrations
 	command :-
 	python manage.py migrate	
