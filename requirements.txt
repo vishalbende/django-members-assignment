@@ -21,7 +21,7 @@ jedi==0.17.1
 parso==0.7.0
 pexpect==4.8.0
 pickleshare==0.7.5
-pipenv==2020.6.2
+pipenv==2022.1.8
 prompt-toolkit==3.0.5
 psycopg2==2.7.5
 ptyprocess==0.6.0
